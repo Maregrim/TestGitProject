@@ -6,6 +6,10 @@ public class Main {
         System.out.println("Print me");
     }
 
+    public int getNumber() {
+        return 3;
+    }
+
     public String getString() {
         return "This is a string";
     }
